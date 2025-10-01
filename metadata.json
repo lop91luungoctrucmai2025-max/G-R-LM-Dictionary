@@ -1,0 +1,5 @@
+{
+  "name": "G(R)LM Dictionary",
+  "description": "An application that allows users to look up words, much like a traditional paper dictionary, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
